@@ -50,16 +50,13 @@ body{
 
 .menu li a:hover {
     background-color: #5bc241;
-    color:#ffffff;
-}
-
-.menu li a.btn{
-    background-color: #5bc241;
     border-radius: 1rem;
     color: #ffffff;
     margin-left: 2rem;
     padding: 10px 20px;
 }
+
+
 
 
 
